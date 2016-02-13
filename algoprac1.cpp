@@ -1,6 +1,6 @@
 // algoprac1.cpp : Algo that finds all possible combinations of numbers from 1-9 in that order with a plus or minus or nothing (joined) to give  value of 100.
 // Ex: 123+45-6+8-9 = 100
-
+// 0 -> NO SPACE 1 -> PLUS 2 -> MINUS
 #include "stdafx.h"
 #include <iostream>
 #include <cstdlib>
